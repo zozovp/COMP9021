@@ -1,0 +1,25 @@
+TEST 1
+./a.out A signed. An int short x. A long unsigned long int. A double long x. A float. A long long _007.
+./a.out A long int long john. A pointer to a datum of type char. An array lisa2 of 10 data of type double. A pointer peter to a datum of type unsigned int. An array hanna of 1 datum of type char signed.
+./a.out An array of 290 data of type int. A function returning a datum of type char. A function that_is_right returning void. A pointer may_be_2 to void.
+
+TEST 2
+./a.out An array hanna of 1 datum of type char signed.
+./a.out An array of 290 data of type int. A function returning a datum of type char. A function that_is_right returning void. A pointer may_be_2 to void.
+./a.out A function really returning a datum of type float. A float x. A function x returning a datum of type unsigned int.
+
+
+TEST 3
+./a.out A function returning a pointer to an array of 3 pointers to pointers to arrays of 60 pointers to functions returning a pointer to a datum of type int.
+./a.out A pointer to a pointer to a pointer to a pointer to a datum of type int. An array gee of 10 arrays of 20 arrays of 30 pointers to arrays of 40 arrays of 50 data of type int. An array of 20 pointers to data of type int. An array that_is_an_array of 2000 pointers to arrays of 1000 data of type int. An array of 1 pointer to an array of 25 pointers to functions returning a pointer to a datum of type int.
+
+TEST 4
+./a.out An array U of 50 pointers to pointers to data of type the type of X.
+./a.out A pointer Z to a datum of type the type of U.
+./a.out An array Z of 70 pointers to data of type the type of U. An int Z. An unsigned V.
+./a.out An int Z.
+./a.out An unsigned V. A char. A pointer X to a datum of type double.
+
+./a.out An array U of 50 pointers to pointers to data of type the type of X. A pointer Z to a datum of type the type of U. An array Z of 70 pointers to data of type the type of U. An int Z. An unsigned V. A char. A pointer X to a datum of type double.
+
+./a.out An array of 8 data of type the type of A1. A pointer to a function returning a datum of type the type of P. An array A1 of 20 pointers to data of type the type of C. A double long R. A pointer C to a function returning a pointer to a datum of type the type of D. A pointer P to an array of 102 data of type the type of R. A function D returning a datum of type the type of P.
